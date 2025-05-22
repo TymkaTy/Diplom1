@@ -1,0 +1,240 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Браслет для Apple Watch",
+            "slug": "braslet-dlya-apple-watch",
+            "description": "Роскошный браслет для Apple Watch, выполненный из золота 585 пробы, придаёт умным часам статусный и элегантный вид.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Браслет из золота с гравировкой и сапфирами",
+            "slug": "braslet-iz-zolota-s-gravirovkoj-i-sapfirami",
+            "description": "Трогательный и изысканный браслет из золота, украшенный драгоценными сапфирами и индивидуальной гравировкой, — идеальный подарок для самой дорогой женщины.",
+            "image": "",
+            "price": "93.00",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Сборный браслет с гравировкой",
+            "slug": "sbornyj-braslet-s-gravirovkoj",
+            "description": "Индивидуальный сборный браслет из красного золота 585 пробы — элегантное и символичное украшение, созданное специально для особых моментов.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 4,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Браслет плетения «Двойной якорь»",
+            "slug": "braslet-pleteniya-dvojnoj-yakor",
+            "description": "Стильный и прочный браслет плетения «Двойной якорь», выполненный из серебра 925 пробы, сочетает в себе надёжность и элегантность.",
+            "image": "",
+            "price": "93.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Цепь плетения «Анаконда»",
+            "slug": "cep-pleteniya-anakonda",
+            "description": "Эффектная цепь плетения «Анаконда», выполненная из комбинированного золота 585 пробы, — яркое и солидное украшение с мощным визуальным акцентом.",
+            "image": "",
+            "price": "120.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Цепь плетения «Бисмарк»",
+            "slug": "cep-pleteniya-bismark",
+            "description": "Массивная и благородная цепь с классическим плетением «Бисмарк», выполненная из красного золота 585 пробы — символ силы, статуса и уверенности.",
+            "image": "",
+            "price": "100.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Цепь плетения «Картье»",
+            "slug": "cep-pleteniya-karte",
+            "description": "Изысканная цепь плетения «Картье», выполненная из красного золота 585 пробы, — воплощение элегантности и утончённого стиля.",
+            "image": "",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 2,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Цепь плетения «Лисий хвост»",
+            "slug": "cep-pleteniya-lisij-hvost",
+            "description": "Роскошная цепь плетения «Лисий хвост», изготовленная из красного золота 585 пробы, — изысканное и выразительное украшение с мягкой, струящейся формой.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Серьги-трансформеры",
+            "slug": "sergi-transformery",
+            "description": "Уникальные серьги-трансформеры, выполненные из благородного сочетания белого и жёлтого золота 585 пробы, украшены сияющими бриллиантами, романтичным элементом в форме сердца и изящными плетёными деталями.",
+            "image": "",
+            "price": "350.00",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Кольцо из комбинированного золота с бриллиантами",
+            "slug": "kolco-iz-kombinirovannogo-zolota-s-brilliantami",
+            "description": "Элегантное кольцо, выполненное из сочетания белого и жёлтого золота, украшено сияющими бриллиантами, придающими изделию утончённый блеск и роскошный характер.",
+            "image": "",
+            "price": "110.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Кулон в форме ключа",
+            "slug": "kulon-v-forme-klyucha",
+            "description": "Уникальный кулон в форме ключа, выполненный из красного золота 585 пробы, украшен загадочным раух-топазом с глубоким дымчатым оттенком.",
+            "image": "",
+            "price": "50.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Кулон в виде анатомического сердца",
+            "slug": "kulon-v-vide-anatomicheskogo-serdca",
+            "description": "Выразительный кулон в форме анатомического сердца, выполненный из красного золота 585 пробы, станет ярким акцентом в вашем образе.",
+            "image": "",
+            "price": "105.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Кулон в виде ракушки",
+            "slug": "kulon-v-vide-rakushki",
+            "description": "Изящный кулон в форме ракушки, выполненный из белого золота 585 пробы, воплощает нежность и морскую свежесть.",
+            "image": "",
+            "price": "110.00",
+            "discount": "0.00",
+            "quantity": 2,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Кулоны из серебра и золота",
+            "slug": "kulony-iz-serebra-i-zolota",
+            "description": "Стильные кулоны из серебра и золота 585 пробы с оригинальной гравировкой бренда и чакки — сочетание современного дизайна и глубокого символизма.",
+            "image": "",
+            "price": "115.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Кулон знак зодиака Овен",
+            "slug": "kulon-znak-zodiaka-oven",
+            "description": "Элегантный кулон в виде знака зодиака Овен, выполненный из сочетания красного и белого золота 585 пробы, украшен яркими рубинами — символом страсти и энергии.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 4,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Серьги из красного золота",
+            "slug": "sergi-iz-krasnogo-zolota",
+            "description": "Изящные серьги из красного золота 585 пробы, украшенные натуральным жемчугом, создают гармоничное сочетание классики и утончённой элегантности.",
+            "image": "",
+            "price": "100.00",
+            "discount": "0.00",
+            "quantity": 4,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Серьги из серебра",
+            "slug": "sergi-iz-serebra",
+            "description": "Красивые серьги из серебра 925 пробы, украшенные сочетанием благородных аметистов, свежих хризолитов и сверкающих фианитов.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 7
+        }
+    }
+]

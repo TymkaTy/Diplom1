@@ -1,0 +1,50 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 2,
+        "fields": {
+            "name": "Все товары",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 3,
+        "fields": {
+            "name": "Кольца",
+            "slug": "kolca"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 4,
+        "fields": {
+            "name": "Браслеты",
+            "slug": "braslety"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 5,
+        "fields": {
+            "name": "Цепи",
+            "slug": "cepi"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 6,
+        "fields": {
+            "name": "Кулоны",
+            "slug": "kulony"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 7,
+        "fields": {
+            "name": "Серьги",
+            "slug": "sergi"
+        }
+    }
+]
