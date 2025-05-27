@@ -1,4 +1,4 @@
-{% extends "main/base.html" %}
+{% extends "base.html" %}
 {% load static %}
 {% load goods_tags %}
 
@@ -51,6 +51,15 @@
                                 <button type="submit" class="btn btn-primary mx-3 mt-3">Применить</button>
                             </form>
                         </div>
+
+
+                        {% if request.GET.q %}
+                            <h3 class="mt-4">Результаты поиска по запросу {{ request.GET.q }}</h3>
+                        {% if not goods %}
+                            <link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">
+                            <h2 class="mt-4">По запросу ничего не найдено</h2>
+                        {% endif %}
+                        {% endif %}
                         {% for product in goods %}
                         <!-- Карта товара -->
                         <div class="col-lg-4 col-md-6 p-4">
