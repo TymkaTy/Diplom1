@@ -27,6 +27,7 @@ class Cart(models.Model):
         db_table = 'cart'
         verbose_name = "Корзина"
         verbose_name_plural = "Корзина"
+        ordering = ("id",)
 
     def products_price(self):
         return round(self.product.sell_price() * self.quantity, 2)
